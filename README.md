@@ -16,12 +16,10 @@ This project enables quantitative evaluation of learning behavior and engagement
 * TextMeshPro
 * CSV Data Logging
 ## Demo
-
 Video: [Coming Soon..!]<br>
 Screenshots: [Coming Soon...!]
 
 ## Author
-
 Dr. Ayaz Muhammad Hanif
 PhD (Design) | Assistant Professor
 Researcher in XR, HCI, and Educational Technology
